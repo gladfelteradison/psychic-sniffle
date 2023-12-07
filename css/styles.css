@@ -1,0 +1,54 @@
+body{
+    font-family:sans-serif;
+    background-color:slateblue;
+    color:crimson;
+    background-image: url(https://imgs.search.brave.com/MBo_-d3vzU7eAeJGSF4eEEcOeiybUR5MofzGU8G5yOg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWM2LmRlcG9zaXRw/aG90b3MuY29tLzEw/MzYxNDkvNTkwL2kv/NDUwL2RlcG9zaXRw/aG90b3NfNTkwNzk2/Mi1zdG9jay1waG90/by1jb29sLWZyb2cu/anBn);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:beige;
+}
+
+a:visited{
+    color: hotpink;
+}
+
+img{
+    display: block;
+    border: solid rgb(108, 7, 7) 3px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+}
+h1{
+    border: dashed pink 15px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+}
+
+.lotr{
+    font-family: cursive;
+    color: lime;
+    font-size: 50px;
+    font-weight: bold;
+    border: dotted 3px fuchsia;
+    background-color: cyan;
+    float: center;
+}
+
+.lotr:hover{
+    text-decoration: line-through;
+    font-size: 150px;
+    background-color: blueviolet;
+    color: aqua;
+    border: solid orange 10px;
+
+}
